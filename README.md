@@ -4,7 +4,7 @@ Software developer who enjoys building things across the stack — from systems 
 I currently develop full-stack applicattions at [Planwatts](http://github.com/PlanWatts), where I use cutting-edge technologies to move fast. I like breaking stuff (never on prod). In my daily live I leverage vue with typescript in the frontend, and spring-boot with java on the backend. 
 
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
